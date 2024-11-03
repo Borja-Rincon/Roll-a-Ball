@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CanvasLevelThreeScript">
+			<method name="NewGame"/>
+			<method name="RestartLevel"/>
+		</type>
+		<type fullname="CanvasScript">
+			<method name="RestartLevel"/>
+		</type>
+	</assembly>
+</linker>

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Borja\\Roll A Ball\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|c:\\users\\borja\\roll a ball\\assets\\scripts\\cameracontrollerleveltwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontrollerleveltwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|c:\\users\\borja\\roll a ball\\assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|C:\\Users\\Borja\\Roll A Ball\\assets\\scripts\\playercontrollertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollertwo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|C:\\Users\\Borja\\Roll A Ball\\assets\\scripts\\playercontrollerone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A8D1D88-C941-7070-941D-907AFEC34D84}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontrollerone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CameraControllerLevelTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\CameraControllerLevelTwo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraControllerLevelTwo.cs",
+              "ToolTip": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\CameraControllerLevelTwo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraControllerLevelTwo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:28:04.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController.cs",
+              "ToolTip": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T13:09:42.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerControllerTwo.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\PlayerControllerTwo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerTwo.cs",
+              "ToolTip": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\PlayerControllerTwo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerTwo.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAmwGoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:59:14.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerControllerOne.cs",
+              "DocumentMoniker": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\PlayerControllerOne.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerControllerOne.cs",
+              "ToolTip": "C:\\Users\\Borja\\Roll A Ball\\Assets\\Scripts\\PlayerControllerOne.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerControllerOne.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-02T12:30:48.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
