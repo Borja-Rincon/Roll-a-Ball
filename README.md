@@ -28,7 +28,7 @@ Este juego fue desarrollado utilizando Unity 6, aprovechando sus capacidades de 
 
 Para optimizar el uso de recursos en GitHub, se han excluido ciertos assets del repositorio. Puedes descargar los assets necesarios desde Google Drive y añadirlos a la carpeta `Assets` del proyecto.
 
-**[Descargar Assets de Unity Store](https://drive.google.com/drive/folders/1MUMWKLSAIC3m7bwauvyTLCHSHmDZzm1K?usp=sharing)**
+**[Descargar Assets de Unity Store utilizados en este proyecto](https://drive.google.com/drive/folders/1MUMWKLSAIC3m7bwauvyTLCHSHmDZzm1K?usp=sharing)**
 
 **Instrucciones**:
 1. Descarga la carpeta de assets desde el enlace proporcionado.
