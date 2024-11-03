@@ -44,7 +44,7 @@ Para optimizar el uso de recursos en GitHub, se han excluido ciertos assets del 
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/USUARIO/Roll-a-Ball.git
+   git clone https://github.com/Borja-Rincon/Roll-a-Ball.git
 
 2. Navega al directorio del proyecto:
 
